@@ -1,0 +1,31 @@
+product_id,product_name,category,cost_price,mrp
+P001,Basmati Rice 5kg,Staples,520,640
+P002,Atta 10kg,Staples,380,460
+P003,Toor Dal 1kg,Staples,120,155
+P004,Mustard Oil 1L,Staples,150,185
+P005,Sugar 1kg,Staples,40,48
+P006,Tea 500g,Staples,190,250
+P007,Bananas 1 dozen,Fresh,40,60
+P008,Tomatoes 1kg,Fresh,25,40
+P009,Onions 1kg,Fresh,28,42
+P010,Paneer 200g,Fresh,70,95
+P011,Eggs 12,Fresh,65,84
+P012,Milk 1L,Fresh,48,56
+P013,Potato Chips 150g,Snacks,30,45
+P014,Namkeen 400g,Snacks,65,95
+P015,Biscuits Family Pack,Snacks,55,80
+P016,Chocolate Bar,Snacks,35,50
+P017,Instant Noodles 4-pack,Snacks,42,60
+P018,Shampoo 340ml,Personal Care,180,260
+P019,Bath Soap 4-pack,Personal Care,110,160
+P020,Toothpaste 200g,Personal Care,85,120
+P021,Face Wash 100ml,Personal Care,120,199
+P022,Hair Oil 200ml,Personal Care,95,140
+P023,Detergent 2kg,Home Care,220,310
+P024,Dishwash Liquid 750ml,Home Care,110,160
+P025,Floor Cleaner 1L,Home Care,130,190
+P026,Mosquito Repellent,Home Care,60,90
+P027,LED Bulb 9W 4-pack,Electronics,220,360
+P028,Extension Board,Electronics,350,599
+P029,Earphones,Electronics,400,799
+P030,Power Bank 10000mAh,Electronics,750,1299

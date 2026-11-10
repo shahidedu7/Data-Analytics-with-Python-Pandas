@@ -1,0 +1,58 @@
+[
+  {
+    "promo_id": "PR01",
+    "name": "Republic Day Sale",
+    "start": "2025-01-24",
+    "end": "2025-01-27",
+    "discount_pct": 10,
+    "channels": [
+      "App",
+      "Website"
+    ]
+  },
+  {
+    "promo_id": "PR02",
+    "name": "Holi Hungama",
+    "start": "2025-03-10",
+    "end": "2025-03-14",
+    "discount_pct": 15,
+    "channels": [
+      "App",
+      "Store"
+    ]
+  },
+  {
+    "promo_id": "PR03",
+    "name": "Monsoon Savings",
+    "start": "2025-07-01",
+    "end": "2025-07-07",
+    "discount_pct": 10,
+    "channels": [
+      "App"
+    ]
+  },
+  {
+    "promo_id": "PR04",
+    "name": "Durga Puja Dhamaka",
+    "start": "2025-09-25",
+    "end": "2025-10-05",
+    "discount_pct": 20,
+    "channels": [
+      "App",
+      "Store",
+      "Website"
+    ]
+  },
+  {
+    "promo_id": "PR05",
+    "name": "Diwali Bonanza",
+    "start": "2025-10-15",
+    "end": "2025-10-22",
+    "discount_pct": 20,
+    "channels": [
+      "App",
+      "Store",
+      "Website"
+    ]
+  }
+]
